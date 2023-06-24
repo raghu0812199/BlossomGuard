@@ -8,6 +8,7 @@ Overview:
 Bloom Guard is an automated flower detection and pollination system specifically designed for vertical farming. Our goal is to revolutionize the agricultural industry by automating the crucial process of flower detection and pollination, leading to increased crop yields, improved efficiency, and sustainable farming practices.
 
 Features:
+
 *Accurate flower detection: Leveraging advanced computer vision and machine learning techniques, Bloom Guard can accurately detect flowers amidst the complex vertical farm environment. This ensures precise identification and targeted pollination.
 
 *Precise pollination mechanism: Equipped with a robotic arm or drone-based system, Bloom Guard employs a precise pollination mechanism that mimics natural pollination methods. It ensures the efficient transfer of pollen from male to female flowers, promoting successful fertilization.
